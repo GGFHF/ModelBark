@@ -1,5 +1,3 @@
-# ModelBark
-
 ModelBark is a software application to simulate outer bark growth of woody plant species using a simple mathematical
 model based on the idea of cellular automata (Wolfram, 1983). The application simulates the evolution of cellular
 components of a secondary stem radius taking into consideration the position of the cells of each type (Xylem, Vascular
