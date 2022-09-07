@@ -21,16 +21,16 @@ for Python 3: Linux/Unix, Microsoft Windows, Mac OS X and other platforms. If Li
 of your computer, Python will be already installed. In other cases, it can be downloaded from
 https://www.python.org/.
 
-To install ModelBark on Linux and macOS, simply decompress the ModelBark-master.zip into a
+To install ModelBark on Linux and macOS, simply decompress the ModelBark-main.zip into a
 directory, typing the following command in a terminal window:
 
-$ unzip ModelBark-master.zip
+$ unzip ModelBark-main.zip
 
 Then, the execution permissions of the programs must be set by using this command:
 
 $ chmod u+x *.py *.sh
 
-For Microsoft Windows, simply unzip ModelBark-master.zip in the usual way.
+For Microsoft Windows, simply unzip ModelBark-main.zip in the usual way.
 
 To work properly the directory that hosts ModelBark1_0.py requires an additional empty directory called Figuras (Already available in
 the compressed file).
