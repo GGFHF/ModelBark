@@ -28,7 +28,7 @@ $ unzip ModelBark-main.zip
 
 Then, the execution permissions of the programs must be set by using this command:
 
-$ chmod u+x *.py *.sh
+$ chmod u+x *.py
 
 For Microsoft Windows, simply unzip ModelBark-main.zip in the usual way.
 
