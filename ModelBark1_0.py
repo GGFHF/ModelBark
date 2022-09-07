@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 '''
  Trabajo de Fin de Grado Álvaro Gutiérrez Climent 
  Un modelo matemático-computacional para estudiar la formación de cortezas de
