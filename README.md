@@ -3,7 +3,8 @@
 ModelBark is a software application to simulate outer bark growth of woody plant species using a simple mathematical model based on the idea of cellular automata (Wolfram, 1983). The application simulates the evolution of cellular components of a secondary stem radius taking into consideration the position of the cells of each type (xylem, vascular cambium, active and inactive phloem, phellogen, phelloderm and phellem) and the mechanical stimuli produce by secondary growth.
 ModelBark facilitates testing hypothesis related to bark development mediated by mechanical stimuli in woody plant species and is able to produce different bark types (thick, thin or rhytidome-like barks) by using different parameter combinations.
 See the manual for a briefly presentation of the rationale of the mathematical model, installation instructions and instructions to run the application. A more detailed descritption of the mathematical model and a case study exemplifying the capabilities of ModelBark are available at:
-Gutiérrez Climent Á, Nuño JC, López de Heredia U, Soto Á. MODELBARK: a toy model to study bark formation in woody species. In silico Plants (Submitted)
+
+Gutiérrez Climent Á, Nuño JC, López de Heredia U, Soto Á. ModelBark: a toy model to study bark formation in woody species, in silico Plants, Volume 6, Issue 2, 2024, diae017, https://doi.org/10.1093/insilicoplants/diae017
 
 Installation (see the manual for additional details:
 
